@@ -1,0 +1,5 @@
+Bean\Comentario.class
+com\mycompany\paginaweb\resources\JakartaEE11Resource.class
+Modelo\Modelo.class
+Agenda\AgendaComentario.class
+com\mycompany\paginaweb\JakartaRestConfiguration.class
